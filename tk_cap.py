@@ -143,7 +143,7 @@ def main():
             os.rename('unnamed.pcap',file_name_user+'.pcap')
         else:
             os.rename('unnamed.pcap',file_name_time+'.pcap')
-            print("File will automatically named by time , Bye~\n")
+            print("File will automatically be named after time , Bye~\n")
         print("-------------Saving sucessfully-------------\n")
 
 
