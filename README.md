@@ -7,7 +7,7 @@ Tenkey will update it occasionally
 ### No.1 Simple & Lovely Network packets Capturing Tool
 This tool aims to capture the network packets and unpack them, to show you in the srceen and finally save those packets in a .pcap file which can be opened by network-packet-capture tools like wireshark
 
-**Some Basic Function**
+**Some Basic Functions**
 * you choose which network interface yoo want to capture
 * you can set filter to get packets by conforming the Berkeley Packet Filter(BPF) syntax
 * also you can name your .pcap files or it will be automatically named by the timestamp
