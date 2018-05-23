@@ -11,3 +11,5 @@ This tool aims to capture the network packets and unpack them, to show you in th
 * you choose which network interface yoo want to capture
 * you can set filter to get packets conform the rules by th Berkeley Packet Filter(BPF) syntax
 * also you can name your .pcap files or it will be automatically named by the timestamp
+
+Codes:  tk_cap.py
