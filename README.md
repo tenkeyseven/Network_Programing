@@ -19,13 +19,13 @@ This tool aims to capture network packets and unpack them, to show you on your s
 
 ![setting](https://github.com/tenkeyseven/Network_Programing/blob/master/pictures/setting_and_packetcap.png)
 
-	In the beginning of this program,you can choose different Network interface to capture packets (if not, the default Network interface will be `ens33`,which you can change in the codes),and afterwards you can set BPF syntax to filter the enormous packets.
-	The Packets unpacking structure like that, strip packets through [DPKT](http://dpkt.readthedocs.io/en/latest/), the Different protocol layer will emerge.
+In the beginning of this program,you can choose different Network interface to capture packets (if not, the default Network interface will be `ens33`,which you can change in the codes),and afterwards you can set BPF syntax to filter the enormous packets.
+The Packets unpacking structure like that, strip packets through [DPKT](http://dpkt.readthedocs.io/en/latest/), the Different protocol layer will emerge.
 
 
 ![name](https://github.com/tenkeyseven/Network_Programing/blob/master/pictures/name.png)
 
-	you can just save by youself, name is up to you.
+you can just save by youself, name is up to you.
 
 ### Codes are below
 Codes:  [tk_cap.py](https://github.com/tenkeyseven/Network_Programing/blob/master/tk_cap.py)
