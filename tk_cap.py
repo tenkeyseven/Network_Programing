@@ -111,13 +111,13 @@ def getPcap():
     nic = "ens33"
     fil = None
 
-    ans_nc = input("if you want to set filter for network card ? [y/n]\n")
+    ans_nc = input("do you want to set filter for network card ? [y/n]\n")
     if ans_nc == "y":
         nic = input("typing in the network card name:\n")
         print("......setting filter for network card sucessfully......\n")
 
     ans_fil = input(
-        "if you want to set filter in th BPF(Berkeley Packet Filter) syntax ? [y/n]\n")
+        "do you want to set filter in th BPF(Berkeley Packet Filter) syntax ? [y/n]\n")
     if ans_fil == "y":
         fil = input("typing the BPF syntax Filter:\n")
         print("......setting filter in BPF syntax sucessfully......\n")

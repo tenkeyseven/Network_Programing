@@ -17,8 +17,8 @@ This tool aims to capture network packets and unpack them, to show you on your s
 
 ### Program Running Screenshots
 
-![setting](https://github.com/tenkeyseven/Network_Programing/blob/master/pictures/setting.png)
-![packet_cap](https://github.com/tenkeyseven/Network_Programing/blob/master/pictures/packet_cap.png)
+![setting](https://github.com/tenkeyseven/Network_Programing/blob/master/pictures/setting_and_packet_cap.png)
+
 ![name](https://github.com/tenkeyseven/Network_Programing/blob/master/pictures/name.png)
 
 ### Codes are below
