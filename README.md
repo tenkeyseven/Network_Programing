@@ -20,8 +20,7 @@ This tool aims to capture network packets and unpack them, to show you on your s
 ![setting](https://github.com/tenkeyseven/Network_Programing/blob/master/pictures/setting_and_packetcap.png)
 
 In the beginning of this program,you can choose different Network interface to capture packets (if not, the default Network interface will be `ens33`,which you can change in the codes),and afterwards you can set BPF syntax to filter the enormous packets.
-Striping packets through [DPKT](http://dpkt.readthedocs.io/en/latest/), packets structure is like that. 
-
+packets structure will be like that by Stripping packets through [DPKT](http://dpkt.readthedocs.io/en/latest/) 
 
 ![name](https://github.com/tenkeyseven/Network_Programing/blob/master/pictures/name.png)
 
